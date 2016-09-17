@@ -1,4 +1,4 @@
-package net.ant.mvc;
+package net.ant.bookman;
 
 import org.junit.Before;
 import org.junit.Test;
