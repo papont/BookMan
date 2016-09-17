@@ -1,4 +1,4 @@
-package net.ant.bookman;
+package net.ant.bookman.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
