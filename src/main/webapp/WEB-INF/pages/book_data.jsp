@@ -62,7 +62,7 @@
     <td>${book.id}</td>
     <td>${book.title}</td>
     <td>${book.tuthor}</td>
-    <td>${book.price/100}${book.price%100}</td>
+    <td>${book.price/100}</td>
   </tr>
 </table>
 </body>

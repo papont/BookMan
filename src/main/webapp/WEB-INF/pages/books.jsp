@@ -88,7 +88,7 @@
       <tr>
         <td>
           <form:label path="id">
-            <spring:message text="ID"/>
+            <spring:message text="id"/>
           </form:label>
         </td>
         <td>
@@ -100,7 +100,7 @@
     <tr>
       <td>
         <form:label path="title">
-          <spring:message text="Title"/>
+          <spring:message text="title"/>
         </form:label>
       </td>
       <td>

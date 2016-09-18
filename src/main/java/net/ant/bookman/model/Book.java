@@ -2,6 +2,7 @@ package net.ant.bookman.model;
 
 
 import javax.persistence.*;
+
 @Entity
 @Table(name="books")
 public class Book {
@@ -18,6 +19,10 @@ public class Book {
 
     @Column(name="price")
     private String price;
+
+
+    public Book() {
+    }
 
     public int getId() {
         return id;
